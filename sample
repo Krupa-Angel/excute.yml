@@ -1,4 +1,4 @@
-version: '2'
+version: '3'
 services:
   test-yaml:
     image: 'codefreshio/$IMAGE_NAME:latest'
